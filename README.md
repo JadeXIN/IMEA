@@ -1,4 +1,4 @@
-# [Informed Multi-context Entity Alignment](https://arxiv.org/pdf/2201.00304)
+# [Informed Multi-context Entity Alignment (2022 WSDM)](https://arxiv.org/pdf/2201.00304)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat-square)](https://github.com/JadeXIN/IMEA/issues)
 [![language-python3](https://img.shields.io/badge/Language-Python3-blue.svg?style=flat-square)](https://www.python.org/)
 [![made-with-Tensorflow](https://img.shields.io/badge/Made%20with-Tensorflow-orange.svg?style=flat-square)](https://www.tensorflow.org/)
